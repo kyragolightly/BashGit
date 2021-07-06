@@ -70,5 +70,5 @@ Visit the [D-Lab homepage](http://dlab.berkeley.edu/) to learn more about us. Vi
 
 # Contributors
 * [Evan Muzzall](https://dlab.berkeley.edu/people/evan-muzzall)
-* []()
-* []()
+* [Donald Max Ziff](https://dlab.berkeley.edu/people/donald-max-ziff)
+* [Renata Barreto](https://dlab.berkeley.edu/people/renata-barreto)
