@@ -27,7 +27,7 @@ In preparation for the upcoming workshop you will need to make sure you have Bas
 
 **Linux**
 
-* Use the package manager by typing: $ apt-get install git
+* Use the package manager by typing: '$ apt-get install git'
 
 ### 2) Create a Github account
 
@@ -54,6 +54,9 @@ If you don't have a Berkeley CalNet ID, you can still run these lessons in the c
 
 # Resources
 
+* [Software Carpentry](https://software-carpentry.org/lessons/)
+- [The Unix Shell](http://swcarpentry.github.io/shell-novice/)
+- [Version Control with Git](http://swcarpentry.github.io/git-novice/)
 
 
 
@@ -75,8 +78,3 @@ Try these remote solutions instead:
 - If you have a CalNet ID, login to your [DataHub](https://datahub.berkeley.edu) and click "New" --> "Terminal"
 - If you do not have a CalNet ID, visit the [CoCalc online Linux Terminal](https://cocalc.com/doc/terminal.html) and click the "Run Terminal Now" button
 
-# Learn more!
-
-[Software Carpentry](https://software-carpentry.org/lessons/)
-- [The Unix Shell](http://swcarpentry.github.io/shell-novice/)
-- [Version Control with Git](http://swcarpentry.github.io/git-novice/)
