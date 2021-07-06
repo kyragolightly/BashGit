@@ -27,7 +27,7 @@ In preparation for the upcoming workshop you will need to make sure you have Bas
 
 **Linux**
 
-* Use the package manager by typing: '$ apt-get install git'
+* Use the package manager by typing: `$ apt-get install git`
 
 ### 2) Create a Github account
 
@@ -58,23 +58,9 @@ If you don't have a Berkeley CalNet ID, you can still run these lessons in the c
 - [The Unix Shell](http://swcarpentry.github.io/shell-novice/)
 - [Version Control with Git](http://swcarpentry.github.io/git-novice/)
 
+## D-Lab's Programming Fundamentals and Git Fundamentals workshops: 
 
+* [Programming Fundamentals](https://github.com/dlab-berkeley/programming-fundamentals)
+* [Git Fundamentals](https://github.com/dlab-berkeley/git-fundamentals)
 
-
-
-
-D-Lab's fast introduction to Bash + Git, a distillation of our Programming Fundamentals and Git Fundamentals workshops: 
-
-- Programming Fundamentals: https://github.com/dlab-berkeley/programming-fundamentals
-
-- Git Fundamentals: https://github.com/dlab-berkeley/git-fundamentals
-
-
-
-# Are you having trouble opening a Bash, Zsh, or GitBash terminal on your personal computer? 
-
-Try these remote solutions instead:
-
-- If you have a CalNet ID, login to your [DataHub](https://datahub.berkeley.edu) and click "New" --> "Terminal"
-- If you do not have a CalNet ID, visit the [CoCalc online Linux Terminal](https://cocalc.com/doc/terminal.html) and click the "Run Terminal Now" button
 
