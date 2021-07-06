@@ -54,9 +54,9 @@ If you don't have a Berkeley CalNet ID, you can still run these lessons in the c
 
 # Resources
 
-* [Software Carpentry](https://software-carpentry.org/lessons/)
-- [The Unix Shell](http://swcarpentry.github.io/shell-novice/)
-- [Version Control with Git](http://swcarpentry.github.io/git-novice/)
+[Software Carpentry](https://software-carpentry.org/lessons/)
+* [The Unix Shell](http://swcarpentry.github.io/shell-novice/)
+* [Version Control with Git](http://swcarpentry.github.io/git-novice/)
 
 ## D-Lab's Programming Fundamentals and Git Fundamentals workshops: 
 
